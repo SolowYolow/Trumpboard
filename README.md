@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img align="left" width="604" alt="keyboard components" src="https://github.com/user-attachments/assets/5c0debfe-7025-4a4a-9068-3ed297181fc6">
-  <img align="right" width="350" alt="keyboard assembly" src="https://github.com/user-attachments/assets/e85eab01-a4ce-4159-8365-265e47b777c9">
+  <img align="left" width="400" alt="keyboard components" src="https://github.com/user-attachments/assets/5c0debfe-7025-4a4a-9068-3ed297181fc6">
+  <img align="right" width="250" alt="keyboard assembly" src="https://github.com/user-attachments/assets/e85eab01-a4ce-4159-8365-265e47b777c9">
 </p>
 
 <br clear="both" />
