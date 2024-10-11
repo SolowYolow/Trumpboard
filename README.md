@@ -9,6 +9,6 @@
 
 <img align="right" width="350" alt="image" src="https://github.com/user-attachments/assets/e85eab01-a4ce-4159-8365-265e47b777c9">
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/2leu0M6s3vk)
+[![Watch the video](https://img.youtube.com/vi/2leu0M6s3vk/maxresdefault.jpg)](https://youtu.be/2leu0M6s3vk)
 
 Soundtest: https://www.youtube.com/watch?v=2leu0M6s3vk
